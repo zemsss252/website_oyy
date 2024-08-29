@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background-image: url(yuki.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+h2 {
+    margin-top: 40px;
+    color: #444;
+}
+
+ol {
+    margin-left: 20px;
+}
+
+ol li {
+    margin-bottom: 15px;
+    color: #000000;
+}
+
+strong {
+    color: #222;
+    font-size: 18px;
+}
+
+p {
+    font-size: 16px;
+    color: #000000;
+    text-align: center;
+}
+
+/* Styling untuk garis horizontal */
+hr {
+    border: none;
+    height: 1px;
+    background-color: #000000;
+    margin: 20px 0;
+}
